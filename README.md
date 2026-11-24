@@ -11,5 +11,7 @@
 Необходимый библиотеки для запууска: 
 
 pip install pygame или pygame-ce
+
 pip install numpy
+
 pip install torch
