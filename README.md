@@ -9,6 +9,7 @@
 Для запуска необходимо: файлы - main5.py, ai_model.py и dagger_v4.pth положить в одну директорию. И запустить main5.py.
 
 Необходимый библиотеки для запууска: 
+
 pip install pygame или pygame-ce
 pip install numpy
 pip install torch
